@@ -1,0 +1,48 @@
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore virtual environment folders
+venv/
+env/
+*.egg-info/
+
+# Ignore configuration files and secrets
+*.env
+*.json
+*.yaml
+*.yml
+*.ini
+
+# Ignore data files and logs
+*.csv
+*.tsv
+*.dat
+*.log
+
+# Ignore temporary and test files
+*.tmp
+*.swp
+
+# Ignore model weights or large data
+*.h5
+*.pickle
+*.pkl
+*.joblib
+
+# Ignore generated documentation
+docs/_build/
+
+# Ignore DS_Store for macOS users
+.DS_Store
+
+# Ignore specific directories or files (example)
+output/
+results/
+models/
+datasets/
