@@ -26,22 +26,5 @@ This is a project to document my learning journey in Gen AI. Below is a rough ou
 * Multimodel LLMs
 
 
-
-## `uv` as dependency manager
-
-* [Install & Manage Python Versions](https://docs.astral.sh/uv/guides/install-python/)
-
-* Hello
-
-```shell
-uv python install 3.11
-uv init gen-ai --python=3.11
-cd gen-ai
-uv venv
-# uv add package
-uv sync
-```
-
-
 # References
 * Hands-On Large Language Models
